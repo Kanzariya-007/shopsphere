@@ -1,12 +1,12 @@
 # ShopSphere Project Status
 
-## Current Milestone: M00 — Project Planning and Engineering Setup
-**Status**: In Progress
+## Current Milestone: M01 — TypeScript and Next.js Foundations; Storefront Shell
+**Status**: Completed
 
 ### Completed Milestones
-*None yet.*
+* M00: Project Planning and Engineering Setup
 
 ### Current Tasks
-- [x] Scaffold Next.js application with TypeScript and Tailwind CSS
-- [x] Establish project documentation
-- [ ] Make foundational semantic commit
+- [x] Strip Next.js default boilerplate from page.tsx and globals.css
+- [x] Render custom Next.js App Router homepage
+- [x] Update documentation and commit
